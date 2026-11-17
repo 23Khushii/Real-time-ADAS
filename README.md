@@ -274,9 +274,7 @@ real-time-adas-perception/
 ├── LICENSE
 │
 ├── docs/
-│   ├── project-report.pdf
-│   ├── presentation.pdf
-│   └── conference-paper.pdf
+│   
 │
 └── assets/
     ├── detection-demo.png
